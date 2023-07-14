@@ -1,4 +1,4 @@
-# bizzllet12 - work in progress
+# work in progress
 
 ### pokretanje: node tcpserver.js
 
